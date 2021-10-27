@@ -1,0 +1,6 @@
+padding
+hover
+opacity
+transparent
+inherit
+align
