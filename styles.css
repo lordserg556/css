@@ -123,13 +123,13 @@ a:hover {
     padding-bottom: 10px;
 }
 
-/* .table td:nth-child(2), d:nth-child(3) {
+.table td:nth-child(2), d:nth-child(3) {
     color: #86898f;
-} */
-
-.table tr:nth-child(odd) {
-    background: red;
 }
+
+/* .table tr:nth-child(odd) {
+    background: red;
+} */
 
 .link-list {
     list-style: none;
